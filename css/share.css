@@ -28,7 +28,7 @@ a.readmore { background: #f90; color: #fff; padding: 5px 10px; float: right; mar
 .news ul { margin-bottom: 20px }
 .news ul li a:hover { text-decoration: underline }
 .visitors ul { margin: 20px 0 }
-.rnav { width: 250px; margin: 20px 0; overflow: hidden; background:url(../images/6167.png) no-repeat left top }
+.rnav { width: 250px; margin: 0px 0; overflow: hidden; background:url(../images/6167.png) no-repeat left top }
 .rnav h2{ font-size:14px; padding-left:40px; line-height:30px; height:30px; margin-bottom:10px}
 .rnav li { width: 120px; text-align: center; display: inline-block; margin-bottom: 5px; margin-right: 5px; float: left; height: 40px; line-height: 40px }
 .rnav li a { color: #333; display: block; -webkit-transition: all 1s; -moz-transition: all 1s; -o-transition: all 1s; transition: all 1s;border:#CCC 1px solid}

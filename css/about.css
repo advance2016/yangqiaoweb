@@ -15,3 +15,7 @@ h1.t_nav span{float:right; color:#999}
 .about_c img{ margin:5px 0}
 .about_c span{ color:#19A566}
 a.blog_link{ color:#1CA368; margin:0 20px}
+
+.yangqiao{
+	background: url(../images/r_line.jpg); 
+}
